@@ -1,2 +1,0 @@
-# FetchAPI
-Created with CodeSandbox
